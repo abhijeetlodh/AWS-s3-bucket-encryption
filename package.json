@@ -1,0 +1,11 @@
+{
+    "name": "s3-bucket-encryption",
+    "version": "1.0.0",
+    "description": "A Node.js script for enabling server-side encryption for an S3 bucket using AES-256 encryption.",
+    "author": "Abhijeet Lodh",
+    "license": "MIT",
+    "dependencies": {
+      "aws-sdk": "^2.959.0"
+    }
+  }
+  
